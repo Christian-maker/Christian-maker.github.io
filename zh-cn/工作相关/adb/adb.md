@@ -56,7 +56,7 @@ adb shell dumpsys activity | grep "mFocusedActivity"
 ```
 adb shell pm list packages
 ```
-帮助
+* 帮助
 ```
 adb help
 ```
