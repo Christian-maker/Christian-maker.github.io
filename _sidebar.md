@@ -9,8 +9,7 @@
     * []()
   * 免费资源合集
     * [壁纸](zh-cn/Freeresources/wallpaper/wallpaper.md)
-    * [视频]()
-    * [音乐]()
+    * [音视频](zh-cn/Freeresources/video/video.md)
     * [办公提效](zh-cn/Freeresources/workoffice/work.md)
 
 * 爬山日记
