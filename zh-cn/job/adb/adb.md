@@ -1,6 +1,30 @@
 ## 安装adb
-最简单的安装方法，直接下载Android studio \
-下载地址：https://developer.android.google.cn/studio
+一、前置条件
+
+安装Java JDK，可以参考文章：https://blog.csdn.net/dou_being/article/details/105320962
+
+二、下载安装Android SDK 或 Android Studio，下载地址：http://tools.android-studio.org/
+
+三、配置环境变量
+
+1、Windows系统环境变量配置
+
+（1）在系统环境变量中新建变量名为adb，变量值为Android SDK的platform-tools文件夹和build-tools文件夹的路径
+
+（2）在系统环境变量的path中，添加adb的home目录：%adb%
+
+（3）验证adb是否安装成功，在cmd命令窗口输入：adb 或 adb version，如果有一串信息打印出来，表示安装成功
+
+2、MacOS系统环境变量配置
+
+（1）对于android studio而言，默认的adb路径为：~ /Library/Android/sdk/platform-tools，注意：路径中"~"代表的根目录指的是当前用户的目录，并非整个mac系统的根目录
+
+（2）在终端输入：open -e .bash_profile，如下图配置adb环境
+![](..%2F..%2F..%2Fphoto%2Fadb01.png)\
+（3）添加完后，保存并关闭文件，然后在终端输入：source .bash_profile，更新文件
+
+（4）然后在终端输入adb，出现一长串帮助说明，证明adb已经配置好了，如图
+![](..%2F..%2F..%2Fphoto%2Fadb02.png)
 
 ## adb命令
 #### 查看当前连接设备：
@@ -56,7 +80,7 @@ adb shell dumpsys activity | grep "mFocusedActivity"
 ```
 adb shell pm list packages
 ```
-* 帮助
+* 
 ```
 adb help
 ```
