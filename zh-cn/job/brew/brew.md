@@ -1,3 +1,4 @@
+# brew
 ## 安装brew
 ### 一.执行brew官网命令安装brew
 官网中复制下图中命令，在terminal中输入该命令，即：
@@ -64,3 +65,8 @@ brew list 显示所有的已安装的软件
 brew search text 搜索本地远程仓库的软件，已安装会显示绿色的勾
 brew search /text/ 使用正则表达式搜软件
 ```
+### brew更多文档
+* [brew手册页（命令文档）](https://docs.brew.sh/Manpage)
+* [Homebrew 博客（有关重大更新的新闻）](https://brew.sh/blog/)
+* [故障排除](https://docs.brew.sh/Troubleshooting)
+* [安装brew](https://docs.brew.sh/Installation)
