@@ -1,12 +1,13 @@
 ## 安装scrcpy
 > 最强投屏插件，投屏、录屏，提bug截图最佳神器（仅限安卓）
+### 简介
+> scrcpy是一款Android设备投屏插件，支持投屏、录屏、截图、设备管理、设备连接、设备状态等功能。
 
-#### Mac安装方法
-首先你需要安装brew，安装教程如上\
-安装好brew后直接用terminal输入以下命令傻瓜式安装：
+### 安装
+> 安装scrcpy，需要安装adb和wget，可以使用brew安装，或者使用下面的命令安装：
+
+```bash
+$ brew install wget
+$ brew install adb
 ```
-brew install scrcpy
-```
-#### Win安装方法
-##### 一、Windows 操作系统下的 ADB 环境配置：
-(后续更新。。。。。。)
+
