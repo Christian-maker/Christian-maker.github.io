@@ -1,7 +1,11 @@
+
+
+
+
+
 <!-- _coverpage.md -->
 
 <img width="160px" style = "border-radius: 50%" bor 
-src = "photo/WechatIMG1.jpeg"><img width="160px" style = "border-radius: 50%" bor 
 src = "photo/WechatIMG1.jpeg">
 
 # 欢迎来到蘑菇头的博客
