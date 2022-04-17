@@ -4,3 +4,9 @@
 
 官网地址：https://www.lanrenexcel.com
 ![](..%2F..%2F..%2Fphoto%2F%E6%87%92%E4%BA%BAExcel.jpg)
+
+## 第一PPT
+> 很多好吃免费的ppt网站要么要让你关注要么让你买积分，但第一PPT完全不套路，资源全而且免登录直接下载。
+
+网站地址：https://www.1ppt.com
+![](..%2F..%2F..%2Fphoto%2F%E7%AC%AC%E4%B8%80PPT.jpg)
