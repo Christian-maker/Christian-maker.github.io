@@ -4,7 +4,7 @@
     * [adb](zh-cn/job/adb/adb.md)
     * [scrcpy](zh-cn/job/scrcpy/scrcpy.md)
     * [wget](zh-cn/job/wget/wget.md)
-    * [iterm2](zh-cn/job/iterm2/iterm2.md)
+    * [oh-my-zsh](zh-cn/job/oh-my-zsh/oh-my-zsh.md)
   * 小工具分享
     * []()
   * 免费资源合集
