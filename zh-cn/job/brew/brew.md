@@ -47,7 +47,7 @@ CORE_TAP_REPO = "git://mirrors.ustc.edu.cn/homebrew-core.git".freeze
 按回车后，根据提示操作：输入镜像序号 --> 输入Y，回车等待brew安装完成即可。
 
 ## 卸载brew
-卸载就比较方便了
+卸载就比较方便了。
 ```
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall)"
 
