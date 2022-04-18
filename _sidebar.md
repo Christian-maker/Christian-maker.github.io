@@ -1,7 +1,7 @@
 * 工作相关
   * 提效小工具
     * [brew](zh-cn/job/brew/brew.md)
-    * [adb](zh-cn/job/adb/adb.md)
+    * [adb](zh-cn/job/adb/adb.md "神奇的adb")
     * [scrcpy](zh-cn/job/scrcpy/scrcpy.md)
     * [wget](zh-cn/job/wget/wget.md)
     * [oh-my-zsh](zh-cn/job/oh-my-zsh/oh-my-zsh.md)
