@@ -13,7 +13,9 @@
     * [办公提效](zh-cn/Freeresources/workoffice/work.md)
 * 学习笔记
   * python基础
-    * [day01](zh-cn/学习笔记/python基础/python基础.md)
+    * [day01](zh-cn/学习笔记/python基础/day01.md)
+    * [day02](zh-cn/学习笔记/python基础/day02.md)
+
 * **爬山日记**
   * [百望山](zh-cn/爬山日记/百望山/baiwangshan.md)
 
