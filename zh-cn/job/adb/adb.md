@@ -21,6 +21,7 @@
 （1）对于android studio而言，默认的adb路径为：~ /Library/Android/sdk/platform-tools，注意：路径中"~"代表的根目录指的是当前用户的目录，并非整个mac系统的根目录
 
 （2）在终端输入：open -e .bash_profile，如下图配置adb环境
+
 ![](..%2F..%2F..%2Fphoto%2Fadb01.png)\
 （3）添加完后，保存并关闭文件，然后在终端输入：source .bash_profile，更新文件
 
