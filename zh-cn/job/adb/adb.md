@@ -12,7 +12,7 @@
 
 （1）在系统环境变量中新建变量名为adb，变量值为Android SDK的platform-tools文件夹和build-tools文件夹的路径
 
-（2）在系统环境变量的path中，添加adb的home目录：%adb%
+（2）在系统环境变量的path中，添加adb的home目录：`%adb%`
 
 （3）验证adb是否安装成功，在cmd命令窗口输入：adb 或 adb version，如果有一串信息打印出来，表示安装成功
 
@@ -20,10 +20,10 @@
 
 （1）对于android studio而言，默认的adb路径为：~ /Library/Android/sdk/platform-tools，注意：路径中"~"代表的根目录指的是当前用户的目录，并非整个mac系统的根目录
 
-（2）在终端输入：open -e .bash_profile，如下图配置adb环境
+（2）在终端输入：`open -e .bash_profile`，如下图配置adb环境
 
 ![](..%2F..%2F..%2Fphoto%2Fadb01.png)\
-（3）添加完后，保存并关闭文件，然后在终端输入：source .bash_profile，更新文件
+（3）添加完后，保存并关闭文件，然后在终端输入：`source .bash_profile`，更新文件
 
 （4）然后在终端输入adb，出现一长串帮助说明，证明adb已经配置好了，如图
 ![](..%2F..%2F..%2Fphoto%2Fadb02.png)

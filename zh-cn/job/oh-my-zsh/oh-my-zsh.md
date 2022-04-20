@@ -103,8 +103,8 @@ https://draculatheme.com/iterm/\
 ### 设置zsh主题
 <font size=4>配置主题：</font>
 
-只需要修改 .zshrc 文件中的 ZSH_THEME="xx" 属性即可。\
-我目前使用的主题是：spaceship\
+只需要修改 .zshrc 文件中的 `ZSH_THEME="xx"` 属性即可。\
+我目前使用的主题是：`spaceship`\
 按照github项目说明中的方法配置即可，或者参考本文下面的主题配置
 
 <font size=4>下载主题文件：</font>

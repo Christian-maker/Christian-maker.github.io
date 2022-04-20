@@ -12,7 +12,7 @@ cd ~
 curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install >> brew_install
 ```
 * 修改install文件的镜像源。
-    * 打开brew_install文件，terminal中执行命令 open ~/brew_install
+    * 打开brew_install文件，terminal中执行命令 `open ~/brew_install`
     * 将brew_install文件中的
 ```
 BREW_REPO = "https://github.com/Homebrew/brew".freeze
@@ -23,7 +23,7 @@ CORE_TAP_REPO = "https://github.com/Homebrew/homebrew-core".freeze
 BREW_REPO = "git://mirrors.ustc.edu.cn/brew.git".freeze
 CORE_TAP_REPO = "git://mirrors.ustc.edu.cn/homebrew-core.git".freeze
 ```
-无 CORE_TAP_REPO 的话，则不需要替换。然后按 Command+s (win用Ctrl)保存文件。
+无 CORE_TAP_REPO 的话，则不需要替换。然后按 `Command+s (win用Ctrl)`保存文件。
 * 安装brew。terminal中执行如下命令
 ```
 /usr/local/bin/ruby ~/brew_install
