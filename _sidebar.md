@@ -15,5 +15,6 @@
   * python基础
     * [day01](zh-cn/学习笔记/python基础/day01.md)
     * [day02](zh-cn/学习笔记/python基础/day02.md)
+    * [day03](zh-cn/学习笔记/python基础/day03.md)
 
 
